@@ -1,4 +1,4 @@
-# Athena: AI-Powered Learning Assistant for Teachers 📚🤖
+# Athena:Learning Assistant 📚🤖
 
 Welcome to the Athena repository! This Android application empowers teachers with artificial intelligence tools, streamlining administrative tasks, enhancing student engagement, and personalizing learning experiences.
 
